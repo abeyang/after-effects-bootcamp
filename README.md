@@ -11,9 +11,11 @@ Original project template taken from [abeyang/video-project-template][1]
 
 ## Getting Started
 
-1. Install the fonts inside `Extras/Fonts/`
-2. [Understand how the assets are managed][2]
-3. (to be continued...)
+1. Have Premiere and After Effects installed (CC preferred; CS6 would be next best option)
+2. Download and unzip this repo
+3. Install the fonts inside `Extras/Fonts/`
+4. [Understand how the assets are managed][2]
+5. Open (AE project file..)
 
 ## Tutorials
 
@@ -23,13 +25,22 @@ By the end of the tutorials, you would have recreated the **final video**.
 
 All tutorials are located inside `Extras/Tutorials/`:
 
-1. Premiere to After Effects workflow
-2. Basics of Animation
-	- Principles of Animation
+1. Basics of animation
+	- Principles of animation
 	- Keyframes
 	- Linear vs. easy-ease
 	- Text animation
-3. Basic Shapes (animating lines and strokes)
+2. Understanding After Effects
+	- Previewing in AE
+	- Exporting (CC and pre-CC use different methods)
+	- Workflow between Premiere and AE
+3. Basic shapes + lines 
+	- Shapes
+	- Lines (not as intuitive as you'd think)
+	- Animating lines + strokes
+4. Animation curves
+5. Precomps and masks
+6. Motion-tracking + 3D transforms
 
 [1]:	https://github.com/abeyang/video-project-template
 [2]:	https://github.com/abeyang/video-project-template
