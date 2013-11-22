@@ -96,6 +96,46 @@ HERO
 > So here's another familiar scenario. You're trying to cook something delicious--
 > (shows laptop and cutting board) and you have your laptop out on one side, and a cutting board on another. But why have two, when you can have both -- in one!
 
+Camera pans to reveal SLAM lying on counter.
+
+HERO
+> OK Barney, get me the recipe of French Onion Soup.
+
+Overhead shot of HERO on cutting board, ready to slice an onion. **Interface reveals tips of how not to cut oneself.** HERO starts chopping.
+
+Cut to direct shot of HERO. He's still chopping, but action is done O.S.
+
+HERO
+> (From looking down at cutting board to the camera) Can you do this with *your* tablet or laptop? I think not--
+
+Extra hard chop. HERO bites lip. Just when he's about to scream, cut!
+
+## EXT. FOUNTAIN AREA - DAY
+
+HERO is sitting in the same place as in the beginning, next to FRIEND 1 and FRIEND 2.
+
+HERO
+> So, in case you're not sold yet, the Slab comes with--
+
+Shot of SLAB inside the cafe, with **text flying in**.
+
+HERO (V.O. cont'd)
+> - All the DT text
+> - Built-in wifi
+> - Nice handle
+
+Cut back to HERO
+
+HERO (cont'd)
+> --and best of all, it's hands free!
+
+HERO reveals bandaged hand.
+
+HERO
+> OK Barney, start new journal entry. Yesterday, my two friends got really mad at me because I poked fun at how ugly they look. Man, why are they so sensitive? And superficial? They just don't have a sense of humor, nor can they accept the truth... Those truth-haters...
+
+Zooms out to reveal his two friends sitting next to him, looking at him...
+
 # Outline (sfx):
 
 - √ 0 DTs / Barnabus "speaking" (oval + bars?)
