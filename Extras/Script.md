@@ -39,31 +39,30 @@ HERO (cont'd)
 > So you're at a bind, and what do you do?
 > Fortunately, there's a new device.
 > (Pulls out SLAB from backpack) It's called "The Slab."
-> I can easily choose from my past DTs -- (Gently shakes SLAB horizontally. **DT journals fly out**.) -- going back months, or even years.
-
-> (Turns SLAB around) Let's see here-- 
+> I can easily choose from my past DTs -- (Gently shakes SLAB horizontally. **DT journals fly out**.) -- going back months, or even years. Now, let's see here-- 
 > (**Flicks DTs away**)
 > Don't need this, don't need that. Ah, here (**finger-drags the right DT, slides it into SLAB**)-- the month of June.
 
-> While this is loading up, it's a good time to talk about its digital assistant. Just like Google has Google Now, and Apple has Siri, the Slab has its own--
+> While this is loading up, it's a good time to talk about its digital assistant. Just like Ironman has Jarvis, Apple has Siri, Google has Google Now, the Slab has--
 
 C.U. of interface on SLAB (O.S. of HERO). **Shows 0 DTs from month of June**.
 
 SLAB
-> You have zero DTs. (Sarcastically) Good job, Deep Thought.
+> You have zero DTs. (Sarcastically) I am so enamored by your spirituality.
 
 HERO
-> (To camera) Meet Barnabus.
+> (To camera) 
+> --Barnabus.
 
 ## INT. DINING TABLE
 
 HERO is alone, sitting at the table, with SLAB in hand.
 
 HERO
-> Now's a good time to demonstrate one of the bigger features in Slab. While people gripe about the iPad's on-screen keyboard, and Surface is basically unusable unless you shell out another $150 for its keyboard, the Slab does away with that completely. It's completely driven by voice-recognition.
+> Let's demonstrate one of the bigger features in Slab. While people gripe about the iPad's on-screen keyboard, and Surface is basically unusable unless you shell out another $150 for its keyboard, the Slab does away with that completely. It's completely driven by voice-recognition.
 
 SLAB
-> Are you ready to *finally* enter your first DT entry?
+> Would you like to *finally* enter your first DT entry, O Spiritual One?
 
 HERO
 > Quiet you.
@@ -121,20 +120,39 @@ Shot of SLAB inside the cafe, with **text flying in**.
 
 HERO (V.O. cont'd)
 > - All the DT text
-> - Built-in wifi
+> - wifi and 4G
+> - Built-in pedometer
 > - Nice handle
+> - .. and if you buy now, we'll throw in two knives. And an onion.
 
 Cut back to HERO
 
 HERO (cont'd)
-> --and best of all, it's hands free!
+> Best of all, it's completely hands free!
 
 HERO reveals bandaged hand.
 
 HERO
-> OK Barney, start new journal entry. Yesterday, my two friends got really mad at me because I poked fun at how ugly they look. Man, why are they so sensitive? And superficial? They just don't have a sense of humor, nor can they accept the truth... Those truth-haters...
+> OK Barney, start new journal entry. Yesterday, Richard got really mad at me because I poked fun at how ugly he looks. 
 
-Zooms out to reveal his two friends sitting next to him, looking at him...
+Zoom out to reveal his two friends sitting next to him, looking at him...
+
+HERO (cont'd)
+> Man, why is he so sensitive? And superficial? He just needs to chill out...
+> And oh, my other friend, Cliff--
+
+FRIEND 1
+> My name is Ryan.
+
+HERO
+> Sure it is, Kneckle. Anyways, he just goes on and on about how he doesn't give a rip.
+> (Pause) No, I said rip. No, delete that.
+
+Fade out. Show "Slab" title, with some information about After Effects Best Practices.
+
+HERO (V.O., cont'd)
+> No, scratch that. Select-all and delete. No, you're doing it wring. Ctrl+A delete. Shift-ctrl-delete. No. Force-close app. Reset tablet. Stop. Power down completely. (Sighs.)
+
 
 # Outline (sfx):
 
