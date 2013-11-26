@@ -95,7 +95,7 @@ HERO
 > So here's another familiar scenario. You're trying to cook something delicious--
 > (shows laptop and cutting board) and you have your laptop out on one side, and a cutting board on another. But why have two, when you can have both -- in one!
 
-Camera pans to reveal SLAM lying on counter.
+Camera pans to reveal SLAB lying on counter.
 
 HERO
 > OK Barney, get me the recipe of French Onion Soup.
