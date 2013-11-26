@@ -48,7 +48,7 @@ All tutorials are located inside `Extras/Tutorials/`:
 
 All images have been optimized by ImagOptim; all video footages have been down-sampled to 720p @ 4kbps. All this was done in order to save space, so that it can fit under Github's 1GB/repo limit.
 
-[1]:	https://github.com/abeyang/video-project-template
+[1]:https://github.com/abeyang/video-project-template
 [2]:	https://speakerdeck.com/abeyang/art-of-motion-graphics
 [3]:	https://github.com/abeyang/after-effects-bootcamp/archive/master.zip
 [4]:	https://github.com/abeyang/video-project-template
