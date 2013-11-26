@@ -27,7 +27,21 @@ For more information on the warp stabilizer:
 
 ## Elements
 
+...
+
+Before we move on, let's adjust the speed of the ripple effect (on the stroke layer). When the image falls back into the Slab, think of it like a fist hitting the table -- the ripple effect should start off fast, then slow down (rather than slow-fast-slow). Thus, we'll need to adjust the scaling curves from this:
+
+![][image-2]
+
+To this:
+
+![][image-3]
+
+
+
 [1]:	http://tv.adobe.com/watch/cs-55-production-premium-feature-tour-/stabilize-shaky-footage-with-the-warp-stabilizer-in-after-effects-cs55/
 [2]:	http://helpx.adobe.com/premiere-pro/using/stabilize-motion-warp-stabilizer-effect.html
 
-[image-1]:	Assets/010-warp.jpg "warp stabilizer"
+[image-1]:Assets/010-warp.jpg "warp stabilizer"
+[image-2]:Assets/110-curves.jpg "curves (before)"
+[image-3]:111-curves.jpg "curves (after)"
