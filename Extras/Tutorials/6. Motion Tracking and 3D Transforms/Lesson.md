@@ -16,4 +16,4 @@ More information on the warp stabilizer:
 [1]:	http://tv.adobe.com/watch/cs-55-production-premium-feature-tour-/stabilize-shaky-footage-with-the-warp-stabilizer-in-after-effects-cs55/
 [2]:	http://helpx.adobe.com/premiere-pro/using/stabilize-motion-warp-stabilizer-effect.html
 
-[image-1]:	Assets/010-warp.jpg "warp stabilizer"
+[image-1]:	./Assets/010-warp.jpg "warp stabilizer"
