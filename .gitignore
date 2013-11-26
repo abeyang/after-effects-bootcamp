@@ -1,5 +1,5 @@
 # ignore mov files (for now)
-*.mov
+Footage/Originals/*
 
 # OS or Editor folders
 .DS_Store

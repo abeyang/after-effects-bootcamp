@@ -1,7 +1,7 @@
 
 # SLAB
 
-## EXT. FOUNTAIN AREA - DAY
+## (100) EXT. FOUNTAIN AREA - DAY
 
 HERO, sitting next to FRIEND 1 and FRIEND 2 at a table.
 
@@ -54,7 +54,7 @@ HERO
 > (To camera) 
 > --Barnabus.
 
-## INT. DINING TABLE
+## (200) INT. DINING TABLE
 
 HERO is alone, sitting at the table, with SLAB in hand.
 
@@ -87,7 +87,7 @@ HERO
 
 Animation writes exactly as it hears.
 
-## INT. KITCHEN
+## (300) INT. KITCHEN
 
 HERO has an apron donned.
 
@@ -109,7 +109,7 @@ HERO
 
 Extra hard chop. HERO bites lip. Just when he's about to scream, cut!
 
-## EXT. FOUNTAIN AREA - DAY
+## (400) EXT. FOUNTAIN AREA - DAY
 
 HERO is sitting in the same place as in the beginning, next to FRIEND 1 and FRIEND 2.
 
@@ -148,13 +148,19 @@ HERO
 > Sure it is, Kneckle. Anyways, he just goes on and on about how he doesn't give a rip.
 > (Pause) No, I said rip. No, delete that.
 
-Fade out. Show "Slab" title, with some information about After Effects Best Practices.
+(500) Fade out. Show "Slab" title, with some information about After Effects Best Practices.
 
 HERO (V.O., cont'd)
 > No, scratch that. Select-all and delete. No, you're doing it wring. Ctrl+A delete. Shift-ctrl-delete. No. Force-close app. Reset tablet. Stop. Power down completely. (Sighs.)
 
 
-# Outline (sfx):
+# Notes
+
+Slab dimensions:
+- 9.5" x 15"
+- (w/o handle): 9.5" x 13"
+
+# Outline (vfx):
 
 - √ 0 DTs / Barnabus "speaking" (oval + bars?)
 - √ DT covers showing

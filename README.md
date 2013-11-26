@@ -11,11 +11,12 @@ Original project template taken from [abeyang/video-project-template][1]
 
 ## Getting Started
 
-1. Have Premiere and After Effects installed (CC preferred; CS6 would be next best option)
-2. [Download][2] and unzip this repo
-3. Install the fonts inside `Extras/Fonts/`
-4. [Understand how the assets are managed][3]
-5. Open (AE project file..)
+1. Go through [Art of Motion Graphics presentation][2]
+2. Have Premiere and After Effects installed (CC preferred; CS6 would be next best option)
+3. [Download][3] and unzip this repo
+4. Install the fonts inside `Extras/Fonts/`
+5. [Understand how the assets are managed][4]
+6. Open (AE project file..)
 
 ## Tutorials
 
@@ -43,6 +44,11 @@ All tutorials are located inside `Extras/Tutorials/`:
 5. Precomps and masks
 6. Motion-tracking + 3D transforms
 
+## Misc
+
+All images have been optimized by ImagOptim; all video footages have been down-sampled to 720p @ 4kbps. All this was done in order to save space, so that it can fit under Github's 1GB/repo limit.
+
 [1]:	https://github.com/abeyang/video-project-template
-[2]:	https://github.com/abeyang/after-effects-bootcamp/archive/master.zip
-[3]:	https://github.com/abeyang/video-project-template
+[2]:	https://speakerdeck.com/abeyang/art-of-motion-graphics
+[3]:	https://github.com/abeyang/after-effects-bootcamp/archive/master.zip
+[4]:	https://github.com/abeyang/video-project-template
