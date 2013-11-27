@@ -100,7 +100,7 @@ Camera pans to reveal SLAB lying on counter.
 HERO
 > OK Barney, get me the recipe of French Onion Soup.
 
-Overhead shot of HERO on cutting board, ready to slice an onion. **Interface reveals tips of how not to cut oneself.** HERO starts chopping.
+Overhead shot of HERO on cutting board, ready to slice an onion. **Interface reveals tips of how not to cut oneself. HERO scrolls up and down.** HERO starts chopping.
 
 Cut to direct shot of HERO. He's still chopping, but action is done O.S.
 
@@ -121,9 +121,8 @@ Shot of SLAB inside the cafe, with **text flying in**.
 HERO (V.O. cont'd)
 > - All the DT text
 > - wifi and 4G
-> - Built-in pedometer
-> - Nice handle
-> - .. and if you buy now, we'll throw in two knives. And an onion.
+> - Built-in GPS, weather forecast, pedometer
+> - .. and it has a very nice handle 
 
 Cut back to HERO
 
