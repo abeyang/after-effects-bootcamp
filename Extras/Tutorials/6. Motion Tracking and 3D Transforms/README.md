@@ -3,7 +3,7 @@
 
 ## Before You Begin
 
-Take a look at the commercial in the **Examples/** directory. Afterwards, take a look at the end result of this shot, as well as the clean plate (500-slab.mov).
+Take a look at the commercial in the `Examples/` directory. Afterwards, take a look at the end result of this shot, as well as the clean plate (500-slab.mov).
 
 Given what you know already, how much of this can you accomplish on your own? What are some things that you might not be too certain about?
 

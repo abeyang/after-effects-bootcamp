@@ -26,10 +26,10 @@ By the end of the tutorials, you would have recreated the **final video**.
 
 All tutorials are located inside `Extras/Tutorials/`:
 
-1. Basics of animation
+1. Keyframing + Text Animation Basics
 	- Animation principles
 	- Keyframes
-	- Linear vs. easy-ease
+	- ||Linear vs. easy-ease||
 	- Text animation
 2. Understanding After Effects
 	- Composition principles
@@ -46,9 +46,14 @@ All tutorials are located inside `Extras/Tutorials/`:
 
 ## Misc
 
-All images have been optimized by ImagOptim; all video footages have been down-sampled to 720p @ 4kbps. All this was done in order to save space, so that it can fit under Github's 1GB/repo limit.
+All images have been optimized by ImagOptim; all video footages have been down-sampled to 720p @ 6kbps. All this was done in order to save space, so that it can fit under Github's 1GB/repo limit.
 
-[1]:https://github.com/abeyang/video-project-template
+## Tips + Good Habits
+
+- separating dimensions
+- KISS
+
+[1]:	https://github.com/abeyang/video-project-template
 [2]:	https://speakerdeck.com/abeyang/art-of-motion-graphics
 [3]:	https://github.com/abeyang/after-effects-bootcamp/archive/master.zip
 [4]:	https://github.com/abeyang/video-project-template
