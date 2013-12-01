@@ -1,5 +1,6 @@
 # ignore mov files (for now)
 Footage/Originals/*
+*Auto-Save
 
 # OS or Editor folders
 .DS_Store
