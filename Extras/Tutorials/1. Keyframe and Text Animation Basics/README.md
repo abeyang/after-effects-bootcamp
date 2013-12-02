@@ -28,7 +28,11 @@ It's Jasper with the text that he'll eventually say. What we want to do is anima
 
 ## Interface
 
-...
+- Layers + timeline
+	- keyframes (clock icon)
+	- choosing specific properties
+- RAM Preview
+	- beginning / end
 
 [1]:	http://tv.adobe.com/watch/learn-after-effects-cs6/introducing-the-interface-and-the-workspace/
 

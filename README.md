@@ -29,29 +29,39 @@ All tutorials are located inside `Extras/Tutorials/`:
 1. Keyframing + Text Animation Basics
 	- Animation principles
 	- Keyframes
-	- ||Linear vs. easy-ease||
 	- Text animation
-2. Understanding After Effects
-	- Composition principles
-	- Previewing in AE
-	- Exporting (CC and pre-CC use different methods)
-	- Workflow between Premiere and AE
-3. Basic shapes + lines 
-	- Shapes
-	- Lines (not as intuitive as you'd think)
-	- Animating lines + strokes
-4. Animation curves
-5. Precomps and masks
+	- After Effects Interface
+2. Animation Properties
+	- Opacity/Position/Scale
+	- Pre-composition
+	- Corner Pins
+3. Your Turn
+4. Animation Curves + Trackers
+	- Animation Principles
+	- Linear vs. easy-ease
+	- Understanding the animation graph
+	- Null objects and trackers
+5. Nesting Layers and Masks
+	- Importing assets from Photoshop
+	- 
 6. Motion-tracking + 3D transforms
+7. **EXTRA** Premiere and After Effects
+	- Rendering out from AE
+	- Workflow between Premiere and AE
+		- Dynamic Linking
+		- Standards and Best Practices
 
 ## Misc
 
-All images have been optimized by ImagOptim; all video footages have been down-sampled to 720p @ 6kbps. All this was done in order to save space, so that it can fit under Github's 1GB/repo limit.
+All images have been optimized by ImagOptim; all video footages have been down-sampled to 720p @ 6kbps. All this was done in order to save space, so that it can fit under Github's 1GB/repo (and 100MB/file) limit.
 
 ## Tips + Good Habits
 
 - separating dimensions
 - KISS
+	- start with basic keyframes
+	- when possible, use curves instead of adding keyframes
+	- fewer keyframes = better (generally)
 
 [1]:	https://github.com/abeyang/video-project-template
 [2]:	https://speakerdeck.com/abeyang/art-of-motion-graphics
