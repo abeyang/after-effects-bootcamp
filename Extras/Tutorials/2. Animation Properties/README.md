@@ -3,7 +3,7 @@
 
 ## Intro
 
-Watch
+Watch clip of Irritable Bowl Syndrome.
 
 ## Additional Properties
 

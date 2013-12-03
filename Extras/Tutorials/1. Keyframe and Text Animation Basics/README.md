@@ -153,15 +153,15 @@ More shortcuts can be found under `Extras/Cheatsheet/`.
 
 Overall, this project is simple in that you only had to keyframe one property -- you got two properties for the cost of one keyframe! Fret not, because it only gets more complicated from here on out!
 
-[1]:	http://tv.adobe.com/watch/learn-after-effects-cs6/introducing-the-interface-and-the-workspace/
+[1]:http://tv.adobe.com/watch/learn-after-effects-cs6/introducing-the-interface-and-the-workspace/
 
-[image-1]:	Assets/010-text.png "block of text"
-[image-2]:	Assets/020-layers.jpg "Layers + Properties"
-[image-3]:	Assets/100-opacity.png "Text->Animate->Opacity"
-[image-4]:	Assets/110-animator.png "Animator + Range Selector"
-[image-5]:	Assets/120-animator.jpg "scrub left and right"
-[image-6]:	Assets/130-words.jpg "Based on Words, not Characters"
-[image-7]:	Assets/140-add-position.png "Add->Property->Position"
-[image-8]:	Assets/150-set-properties.png "Set properties"
-[image-9]:	Assets/200-keyframe.jpg "Adding a keyframe"
-[image-10]:	Assets/210-preview.jpg "RAM Preview"
+[image-1]:Assets/010-text.png "block of text"
+[image-2]:Assets/020-layers.jpg "Layers + Properties"
+[image-3]:Assets/100-opacity.png "Text->Animate->Opacity"
+[image-4]:Assets/110-animator.png "Animator + Range Selector"
+[image-5]:Assets/120-animator.jpg "scrub left and right"
+[image-6]:Assets/130-words.jpg "Based on Words, not Characters"
+[image-7]:Assets/140-add-position.png "Add->Property->Position"
+[image-8]:Assets/150-set-properties.png "Set properties"
+[image-9]:Assets/200-keyframe.jpg "Adding a keyframe"
+[image-10]:Assets/210-preview.jpg "RAM Preview"
