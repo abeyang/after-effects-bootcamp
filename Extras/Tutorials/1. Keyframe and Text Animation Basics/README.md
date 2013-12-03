@@ -34,7 +34,7 @@ It's Jasper with the text that he'll eventually say. What we want to do is anima
 
 ![][image-2]
 
-If you know Photoshop and Premiere, then the timeline should be rather intuitive [^1]. The main difference is that in AE, each layer has its own set of properties. This is where you can manually set certain things, like the position or scaling of the object. 
+If you know Photoshop and Premiere, then the timeline should be rather intuitive (if not, please Google "Photoshop layers"). The main difference is that in AE, each layer has its own set of properties. This is where you can manually set certain things, like the position or scaling of the object. 
 
 **Pro-tip**: It may be overwhelming once you open up all the properties, so you can view specific properties by selecting one or more layers, and hitting the following keystrokes:
 
@@ -43,6 +43,8 @@ If you know Photoshop and Premiere, then the timeline should be rather intuitive
 - **S**: scaling
 - **T**: opacity (think opaci-T)
 - **A**: anchor point
+- **U**: only show keyframes properties
+- **U+U**: show all properties
 
 You can open up more properties by holding down the **Shift** key.
 
@@ -53,7 +55,7 @@ Ok, let's get a few things straight:
 - **Layer**: There are many *types* of layers, such as type, solid, shape, etc. You can view all the types when you go to Layer-\>New.
 - **Property**: A specific attribute associated with a layer (see screenshot above).
 - **Comp**: Short for composition, a comp consists of many layers.
-- **Pre-comp**: We'll get into this in a bit, but it's *essentially* a comp [^2].
+- **Pre-comp**: We'll get into this in a bit, but it's *essentially* a comp. (As far as I know, there is no real difference. Pre-comps can be thought of as comps inside comps.)
 - **Keyframe**: A specific property set in a specific time within a layer. Used for animation purposes. Huh? Let's dive right in.
 
 ### Text Animation - Opacity
@@ -91,35 +93,75 @@ The position you see is in X,Y coordinates, so let's set the Y property to 10. Y
 
 ![][image-8]
 
+Scrub the *Start* property back and forth to see the changes.
+
 ### Keyframes
 
-...
+Now, let's see this in action. With the current time indicator (CTI) set at 0, click on the clock next to the *Start* property. A diamond will show up in your timeline, aligned with that property:
+
+![][image-9]
+
+You've now added a keyframe. What's more, because the "clock" is toggled, any new changes you make on the timeline will automatically set a keyframe. Let's go to 1s on the timeline and change the *Start* value to 10%. You'll see another diamond automatically added there. Scrub the CTI back and forth to see the animation in action. Better yet, let's *see* it in action.
 
 - Layers + timeline
 	- keyframes (clock icon)
 	- choosing specific properties
+	- moving keyframes around
 
 ### RAM Preview
 
+**Potential newb mistake**: What a lot of beginners -- especially those coming straight from FCP or Premiere -- would do next is to hit the spacebar to preview. While you *could* do that, it's ill-advised, because you're rendering on-the-fly. This might be ok for this project, but for more CPU-intensive ones, you won't be able to view it in real-time (read: it might be dang slow).
+
+Thus, let's use the **RAM Preview**. Set your work area (the top bar right below the frame notations) from 0 to 2s. Then, hit the right-most arrow (looks like a chopped-up fast-forward icon) in the Preview window:
+
+![][image-10]
+
+What this is doing is saving a render inside the RAM, and looping it over within the work area. If this ever gets choppy (or too slow to preview), you can downsample your resolution (go from full to half or even to a quarter).
+
 - RAM Preview
 	- beginning / end
-	- novice error: using 1 keyframe per action instead of 2 (need 2 to "hold")
+
+## Your Turn
+
+Alright, now it's up to you to finish this comp. Here are some helpful shortcuts that might aid you (these are all shortcut keys that I use **often**):
+
+- RAM Preview: Ctrl + 0
+- Work area
+	- Set **B**eginning point to CTI: B
+	- Set e**N**d point to CTI: N
+- Selected layer(s)
+	- Move beginning/end points to CTI (keyframes will shift accordingly): \[ / \]
+	- Cut beginning/end points at CTI (keyframes will remain in place): Opt + \[ / \]
+	- Move position by 1px: up/down/left/right
+	- Move position b y 20px: Shift + up/down/left/right
+- Move selected keyframe(s)
+	- By 1 frame: Alt + left/right
+	- By 10 frames: Shift + Alt + left/right
+- Move current time indicator (CTI):
+	- By 1 frame: Cmd + left/right
+	- By 10 frames: Shift + Cmd + left/right
+
+More shortcuts can be found under `Extras/Cheatsheet/`.
+
+## Things to Watch Out For
+
+- novice error: using 1 keyframe per action instead of 2 (need 2 to "hold")
 
 ## Conclusion
 
-This is easy because you only had to keyframe one property.. future examples will be more complicated.
+**Potential newb mistake**: Now that you're done and you've previewed it, it might look a little odd. If you've only used one keyframe per word, then you didn't do it right. What we want is to hold each word until the next word is spoken, so your keyframes need to account for that. (How? Figure it out!)
 
-[^1]:If not, please Google "Photoshop layers".
+Overall, this project is simple in that you only had to keyframe one property -- you got two properties for the cost of one keyframe! Fret not, because it only gets more complicated from here on out!
 
-[^2]:As far as I know, there is no real difference. Pre-comps can be thought of as comps inside comps.
+[1]:	http://tv.adobe.com/watch/learn-after-effects-cs6/introducing-the-interface-and-the-workspace/
 
-[1]:http://tv.adobe.com/watch/learn-after-effects-cs6/introducing-the-interface-and-the-workspace/
-
-[image-1]:Assets/010-text.png "block of text"
-[image-2]:Assets/020-layers.jpg "Layers + Properties"
-[image-3]:Assets/100-opacity.png "Text->Animate->Opacity"
-[image-4]:Assets/110-animator.png "Animator + Range Selector"
-[image-5]:Assets/120-animator.jpg "scrub left and right"
-[image-6]:Assets/130-words.jpg "Based on Words, not Characters"
-[image-7]:Assets/140-add-position.png "Add->Property->Position"
-[image-8]:Assets/150-set-properties.png "Set properties"
+[image-1]:	Assets/010-text.png "block of text"
+[image-2]:	Assets/020-layers.jpg "Layers + Properties"
+[image-3]:	Assets/100-opacity.png "Text->Animate->Opacity"
+[image-4]:	Assets/110-animator.png "Animator + Range Selector"
+[image-5]:	Assets/120-animator.jpg "scrub left and right"
+[image-6]:	Assets/130-words.jpg "Based on Words, not Characters"
+[image-7]:	Assets/140-add-position.png "Add->Property->Position"
+[image-8]:	Assets/150-set-properties.png "Set properties"
+[image-9]:	Assets/200-keyframe.jpg "Adding a keyframe"
+[image-10]:	Assets/210-preview.jpg "RAM Preview"
