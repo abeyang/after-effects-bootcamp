@@ -103,11 +103,6 @@ Now, let's see this in action. With the current time indicator (CTI) set at 0, c
 
 You've now added a keyframe. What's more, because the "clock" is toggled, any new changes you make on the timeline will automatically set a keyframe. Let's go to 1s on the timeline and change the *Start* value to 10%. You'll see another diamond automatically added there. Scrub the CTI back and forth to see the animation in action. Better yet, let's *see* it in action.
 
-- Layers + timeline
-	- keyframes (clock icon)
-	- choosing specific properties
-	- moving keyframes around
-
 ### RAM Preview
 
 **Potential newb mistake**: What a lot of beginners -- especially those coming straight from FCP or Premiere -- would do next is to hit the spacebar to preview. While you *could* do that, it's ill-advised, because you're rendering on-the-fly. This might be ok for this project, but for more CPU-intensive ones, you won't be able to view it in real-time (read: it might be dang slow).
@@ -117,9 +112,6 @@ Thus, let's use the **RAM Preview**. Set your work area (the top bar right below
 ![][image-10]
 
 What this is doing is saving a render inside the RAM, and looping it over within the work area. If this ever gets choppy (or too slow to preview), you can downsample your resolution (go from full to half or even to a quarter).
-
-- RAM Preview
-	- beginning / end
 
 ## Your Turn
 
@@ -142,10 +134,6 @@ Alright, now it's up to you to finish this comp. Here are some helpful shortcuts
 	- By 10 frames: Shift + Cmd + left/right
 
 More shortcuts can be found under `Extras/Cheatsheet/`.
-
-## Things to Watch Out For
-
-- novice error: using 1 keyframe per action instead of 2 (need 2 to "hold")
 
 ## Conclusion
 

@@ -43,13 +43,13 @@ All tutorials are located inside `Extras/Tutorials/`:
 	- Null objects and trackers
 5. Nesting Layers and Masks
 	- Importing assets from Photoshop
-	- 
 6. Motion-tracking + 3D transforms
 7. **EXTRA** Premiere and After Effects
 	- Rendering out from AE
 	- Workflow between Premiere and AE
 		- Dynamic Linking
 		- Standards and Best Practices
+8. **EXTRA** Exporting Videos with Transparent Backgrounds
 
 ## Misc
 
@@ -63,7 +63,7 @@ All images have been optimized by ImagOptim; all video footages have been down-s
 	- when possible, use curves instead of adding keyframes
 	- fewer keyframes = better (generally)
 
-[1]:	https://github.com/abeyang/video-project-template
-[2]:	https://speakerdeck.com/abeyang/art-of-motion-graphics
-[3]:	https://github.com/abeyang/after-effects-bootcamp/archive/master.zip
-[4]:	https://github.com/abeyang/video-project-template
+[1]:https://github.com/abeyang/video-project-template
+[2]:https://speakerdeck.com/abeyang/art-of-motion-graphics
+[3]:https://github.com/abeyang/after-effects-bootcamp/archive/master.zip
+[4]:https://github.com/abeyang/video-project-template
