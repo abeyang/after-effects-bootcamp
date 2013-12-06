@@ -19,11 +19,9 @@ Under Lesson 2 in AE, open up **230-psalm23-vfx**. You'll notice that all the el
 
 ### First Task
 
-Look at the **final video**. Again, your job is to recreate it. From the last lesson, what do you know already? That's right, the text flying in on the right. Let's take what you just learned and apply it right away.
+Look at the **final video**. Again, your job is to recreate it. From the last lesson, what do you know already? That's right, the text flying in on the right. Let's take what you just learned and apply it right away. Notice that *lines* come in at a time, rather than words.
 
 ### Additional Properties
-
-++ Opacity/position/scale
 
 For the assets on the left, you'll notice that the way it appears is very similar to the way the text appeared in the previous lesson. It *fades in* while *shifting upwards*. However, unlike the previous lesson, we **won't** be using the text animator.
 
@@ -68,7 +66,7 @@ Select the pre-comp in the project window and go to **Composition-\>Composition 
 
 ![][image-5]
 
-Once that's done, try apply the corner pins again. Success!
+Once that's done, try apply the corner pins again. Success! Be sure to turn off the background slab image in the end -- we don't want that to show.
 
 ## Conclusion
 
