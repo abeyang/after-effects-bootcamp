@@ -28,6 +28,8 @@ Open up **Visual Effects.aep** under `Project/` and find **200-voice-vfx** under
 
 It's Jasper with the text that he'll eventually say. What we want to do is animate the block of text, and sync it to words he's saying.
 
+(You'll notice that the final comps are included here as well. I'd suggest *not* looking at them until *after* the class -- doing so beforehand, even if you're stuck, might short-circuit the learning process.)
+
 ## Interface
 
 ### Layers + Timeline
@@ -36,17 +38,17 @@ It's Jasper with the text that he'll eventually say. What we want to do is anima
 
 If you know Photoshop and Premiere, then the timeline should be rather intuitive (if not, please Google "Photoshop layers"). The main difference is that in AE, each layer has its own set of properties. This is where you can manually set certain things, like the position or scaling of the object. 
 
-**Pro-tip**: It may be overwhelming once you open up all the properties, so you can view specific properties by selecting one or more layers, and hitting the following keystrokes:
-
-- **P**: position
-- **R**: rotation
-- **S**: scaling
-- **T**: opacity (think opaci-T)
-- **A**: anchor point
-- **U**: only show keyframes properties
-- **U+U**: show all properties
-
-You can open up more properties by holding down the **Shift** key.
+> **Pro-tip #2**: It may be overwhelming once you open up all the properties, so you can view specific properties by selecting one or more layers, and hitting the following keystrokes:
+> 
+> - **P**: position
+> - **R**: rotation
+> - **S**: scaling
+> - **T**: opacity (think opaci-T)
+> - **A**: anchor point
+> - **U**: only show keyframes properties
+> - **U+U**: show all properties
+> 
+> You can open up more properties by holding down the **Shift** key.
 
 ### Terminology
 
@@ -77,7 +79,7 @@ You'll notice that it'll add an *Animator* property, which includes a *Range Sel
 
 ![][image-4]
 
-**Pro-tip**: If you scrub the *Start* property to the right and left, you should see something magical. You can do this for every numeric attribute.
+> **Pro-tip #1**: If you scrub the *Start* property to the right and left, you should see something magical. You can do this for every numeric attribute.
 
 ![][image-5]
 

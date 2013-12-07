@@ -42,6 +42,10 @@ To this:
 
 Create a new 3D camera. I used a [50mm f/1.8 lens][3], so please enter this (need screenshot) as your specs to the new camera. It's a bit tricky to get everything to work...
 
+## Misc
+
+- tip: KISS.
+
 [1]:http://tv.adobe.com/watch/cs-55-production-premium-feature-tour-/stabilize-shaky-footage-with-the-warp-stabilizer-in-after-effects-cs55/
 [2]:http://helpx.adobe.com/premiere-pro/using/stabilize-motion-warp-stabilizer-effect.html
 [3]:http://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_8_ii#Specifications

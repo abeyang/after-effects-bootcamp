@@ -31,14 +31,14 @@ So, let's start with the image of the lamb (**230-sheep.png**). If the animation
 
 Do a RAM Preview (remember to set the beginning/end to your work area). Once it's working properly, work on the Psalm 23 text (from 00:20 to 01:12) -- remember, we're going to use the layer properties, not text animator!
 
-**Pro-tip #1**: As you're moving a keyframe, if you hold shift, it will "snap" to key regions of interest (such as a position in the timeline where another keyframe exists or the CTI -- current time indicator -- itself).
+> **Pro-tip #1**: As you're moving a keyframe, if you hold shift, it will "snap" to key regions of interest (such as a position in the timeline where another keyframe exists or the CTI -- current time indicator -- itself).
 
 Ok, done? Simple, right? 
 Well, if you did everything from scratch, there is a *simpler* way--
 
-**Pro-tip #2**: You can copy keyframes from one layer and apply it to another. I would have copied the opacity keyframes from the lamb layer, jump to 00:20, and paste it into the Psalm 23 layer.
+> **Pro-tip #2**: You can copy keyframes from one layer and apply it to another. I would have copied the opacity keyframes from the lamb layer, jump to 00:20, and paste it into the Psalm 23 layer.
 
-**Pro-tip #3**: Going even further, we *could* also copy/paste the position keyframes. With those keyframes still selected, we can then shift the position accordingly -- AE is smart enough to preserve the keyframes. In other words, the beginning and end keyframes will **not** be the same value, but the animated shift upwards will be preserved. This is a good thing!
+> **Pro-tip #3**: Going even further, we *could* also copy/paste the position keyframes. With those keyframes still selected, we can then shift the position accordingly -- AE is smart enough to preserve the keyframes. In other words, the beginning and end keyframes will **not** be the same value, but the animated shift upwards will be preserved. This is a good thing!
 
 ### Pre-composition + Corner-pin
 
