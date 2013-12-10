@@ -53,7 +53,7 @@ All tutorials are located inside `Extras/Tutorials/`:
 
 ## Misc
 
-All images have been optimized by ImagOptim; all video footages have been down-sampled to 720p @ 6kbps. All this was done in order to save space, so that it can fit under Github's 1GB/repo (and 100MB/file) limit.
+All images have been optimized by ImageOptim; all video footages have been down-sampled to 720p @ 6kbps. All this was done in order to save space, so that it can fit under Github's 1GB/repo (and 100MB/file) limit.
 
 ## Tips + Good Habits
 
@@ -62,6 +62,19 @@ All images have been optimized by ImagOptim; all video footages have been down-s
 	- start with basic keyframes
 	- when possible, use curves instead of adding keyframes
 	- fewer keyframes = better (generally)
+
+## Notes to self (to delete)
+
+- Before class
+	- make sure people have *at least* CS6 and up
+	- make sure they've downloaded project files beforehand
+- **Questions**
+	- would it be better to print out entire tutorial and hand out?
+- Lesson 1 (25 min lecture; 18 min do-it-yourself)
+	- explain why we're doing this exercise (personally didn't know you can do this to chunk of text; used to split out the text by itself)
+	- maybe good to ask how people in audience would do this, before giving my example
+	- tip: good to have tunnel vision. A lot of stuff are "advanced features" -- don't need to know majority of what they do.
+-
 
 [1]:https://github.com/abeyang/video-project-template
 [2]:https://speakerdeck.com/abeyang/art-of-motion-graphics

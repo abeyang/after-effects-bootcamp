@@ -3,9 +3,7 @@
 
 ## Intro
 
-Under `Examples` (Lesson 2), watch:
-- Clip of **Irritable Bowl Syndrome**
-- Both NFL commercials
+Under `Examples` (Lesson 2), watch both **NFL commercials**.
 
 If you noticed, in addition to text appearing, what else happened? Other things (animations) were occurring on the screen at the same time. But the beautiful thing is -- for the most part -- they weren't complicated animations. And they did **not** rely on filters (the more you observe good animations and such, you'll notice that many of them do not rely on filters). They're just simple animations. But because there's a lot going on the screen at once, it seems like a lot is going on, and that's often what gives a video that "slick" or "cool" feel. 
 
@@ -20,6 +18,9 @@ Under Lesson 2 in AE, open up **230-psalm23-vfx**. You'll notice that all the el
 ### First Task
 
 Look at the **final video**. Again, your job is to recreate it. From the last lesson, what do you know already? That's right, the text flying in on the right. Let's take what you just learned and apply it right away. Notice that *lines* come in at a time, rather than words.
+
+- Keyframe positions: 00:20 -\> 02:23
+- Position: 20px
 
 ### Additional Properties
 
@@ -66,6 +67,10 @@ Select the pre-comp in the project window and go to **Composition-\>Composition 
 
 ![][image-5]
 
+If you're seeing that it's cropping incorrectly, go back to the settings, and adjust the anchor point under Advanced:
+
+![][image-6]
+
 Once that's done, try apply the corner pins again. Success! Be sure to turn off the background slab image in the end -- we don't want that to show.
 
 ## Conclusion
@@ -79,3 +84,4 @@ If you noticed, Jasper isn't keeping the Slab perfectly still, so it looks like 
 [image-3]:Assets/210-slabonslab.png
 [image-4]:Assets/220-misaligned.jpg "Misaligned corners"
 [image-5]:Assets/230-rightdimensions.png "Correct dimensions"
+[image-6]:Assets/240-anchor.png
