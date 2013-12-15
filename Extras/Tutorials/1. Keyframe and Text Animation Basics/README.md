@@ -30,6 +30,16 @@ It's Jasper with the text that he'll eventually say. What we want to do is anima
 
 (You'll notice that the final comps are included here as well. I'd suggest *not* looking at them until *after* the class -- doing so beforehand, even if you're stuck, might short-circuit the learning process.)
 
+## Real-World Application
+
+Why are we doing this? Personally, I didn't know there's an easy way to animate text. I used to split the text into different layers, and animate it that way. This way is much quicker and easier.
+
+In addition, there are potential real-world application for this technique:
+
+- Sing-a-long (if we ever make Joyland music videos, for example)
+- Titles for name/major (especially if it's outputted as a [transparent video][2])
+- Any video (music video, spoken word, etc) in which words or phrases appear
+
 ## Interface
 
 ### Layers + Timeline
@@ -144,6 +154,7 @@ More shortcuts can be found under `Extras/Cheatsheet/`.
 Overall, this project is simple in that you only had to keyframe one property -- you got two properties for the cost of one keyframe! Fret not, because it only gets more complicated from here on out!
 
 [1]:http://tv.adobe.com/watch/learn-after-effects-cs6/introducing-the-interface-and-the-workspace/
+[2]:https://medium.com/best-practices/2c0e09c90d85
 
 [image-1]:Assets/010-text.png "block of text"
 [image-2]:Assets/020-layers.jpg "Layers + Properties"

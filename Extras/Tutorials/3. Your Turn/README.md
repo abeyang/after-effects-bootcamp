@@ -17,4 +17,4 @@ I'll leave up to you how you want the text to appear, but "devotions from june" 
 
 ## Conclusion
 
-Once your'e done, you'll notice again that your UI will "slide" above the original footage. Again, let's not worry about that for now -- if there's time after the *next* lesson, we'll tackle that.
+Once you're done, you'll notice again that your UI will "slide" above the original footage. Again, let's not worry about that for now -- if there's time after the *next* lesson, we'll tackle that.
